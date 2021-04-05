@@ -13,7 +13,8 @@ body {
 .wrapper-header img {
     width: 100%;
 }
-.wrapper-header .more_inf {
+.wrapper-header 
+.more_inf {
     font-family: fantasy, cursive;
 }
 
@@ -57,7 +58,7 @@ button {
     cursor: pointer;
 }
 button:hover {
-    color: #3a3A3a;
+    color: #3a3a3a;
 }
 /* Heading */
 .section-title {
