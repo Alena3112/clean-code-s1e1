@@ -18,9 +18,10 @@ body {
 }
 
 @media (max-width:768px) {
-.wrapper-header { text-align: center;
+.wrapper-header 
+{ text-align: center;
 }
-}
+
 .wrap-main {
     display: block;
     width: 500px;
@@ -44,7 +45,7 @@ li,
 }
 input,
 button{
-    outline:none;
+    outline: none;
 }
 button {
     background: none;
@@ -74,8 +75,8 @@ input[type="text"] {
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -93,7 +94,7 @@ input[type="text"]:focus {
     width: 318px;
 }
 p > button:hover {
-    color: #0FC57C;
+    color: #0fc57c;
 }
 
 /* Task list */
