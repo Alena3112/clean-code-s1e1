@@ -123,7 +123,7 @@ input[type="text"] {
     width: 226px;
 }
 button.delete:hover {
-    color: #CF2323;
+    color: #cf2323;
 }
 .delete img {
     height: 2em;
@@ -142,14 +142,14 @@ button.delete:hover {
 
 /* Edit Task */
 ul li input[type=text] {
-    display:none
+    display: none;
 }
 
 .wrapper-lists_todo_edit-mode input[type=text] {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
-.wrapper-lists_to-do_edit-mode label {
+.wrapper-lists_todo_edit-mode label {
     display:none;
 }
