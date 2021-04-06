@@ -13,17 +13,16 @@ body {
 .wrapper-header img {
     width: 100%;
 }
-.wrapper-header 
-.more_inf {
+.wrapper-header .more_inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.wrapper-header 
-{ text-align: center;
+.wrapper-header { 
+    text-align: center;
 }
-
-.wrap-main {
+}
+.wrapper-main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
